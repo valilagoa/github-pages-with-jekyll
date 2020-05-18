@@ -1,7 +1,3 @@
-# Welcome!
-------------
-title: "Why is welcome all over the place?"
-theme: minima
-------------
+# Hello!
 
-I am learning how to set up a website here
+This is my first GitHub page. 
